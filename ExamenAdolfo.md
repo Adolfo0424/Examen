@@ -1,6 +1,9 @@
 # Examen de Big Data 
 Big Data
 
+Ud ha sido contratado por Warner music group (una de las 10 disqueras más importantes a nivel mundial) y quiere saber lo siguiente para patrocinar a su siguiente artista de acuerdo a Spotify 
+https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks
+
 Adolfo Angel Leo Cámara
 
 1.- Lo primero que hice fue lo siguiente, para poder importar pandas y el archivo llamado "data_by_artist.csv"
@@ -38,4 +41,7 @@ Aqui se puede ver perfectamente los 10 artistas ordenamos alfabeticamente del 0-
 
 8.- En esta parte puede observar que hice que se identifique el valor maximo y valor minimo
 ![Captura de pantalla de 2021-02-23 12-52-48](https://user-images.githubusercontent.com/78035004/108893500-c4caac80-75d6-11eb-8ba0-850b1b50b444.png)
+
+
+
 
