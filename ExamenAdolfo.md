@@ -33,5 +33,9 @@ Aqui se puede ver perfectamente los 10 artistas ordenamos alfabeticamente del 0-
 
 
 7.- Observamos la VARIANZA
+[Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892645-bdef6a00-75d5-11eb-936b-649a70bc83f0.png)
+
+![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892645-bdef6a00-75d5-11eb-936b-649a70bc83f0.png)
+
 ![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892645-bdef6a00-75d5-11eb-936b-649a70bc83f0.png)
 
