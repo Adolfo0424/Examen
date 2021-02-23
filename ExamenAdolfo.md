@@ -29,4 +29,9 @@ Aqui se puede ver perfectamente los 10 artistas ordenamos alfabeticamente del 0-
 
 
 6.-Por esta parte es el PROMEDIO
-7.![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892031-035f6780-75d5-11eb-8100-c450df5bd300.png)
+![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892280-4c172080-75d5-11eb-9be3-0031b67e6eaf.png)
+
+
+7.- Observamos la VARIANZA
+![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892645-bdef6a00-75d5-11eb-936b-649a70bc83f0.png)
+
