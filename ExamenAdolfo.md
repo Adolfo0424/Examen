@@ -19,4 +19,14 @@ Aqui se puede ver perfectamente los 10 artistas ordenamos alfabeticamente del 0-
 
 
 4.- Ahora mostramos las posibles datos que puedan relacionar  
-5.![Captura de pantalla de 2021-02-23 12-34-59](https://user-images.githubusercontent.com/78035004/108890945-c777d280-75d3-11eb-8dca-4da901ad08dd.png)
+![Captura de pantalla de 2021-02-23 12-34-59](https://user-images.githubusercontent.com/78035004/108890945-c777d280-75d3-11eb-8dca-4da901ad08dd.png)
+
+![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108891394-466d0b00-75d4-11eb-9976-d09e84a1251b.png)
+
+
+5.- Aqui se muestra la MEDIA
+![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108891958-efb40100-75d4-11eb-8c6d-7786b982f331.png)
+
+
+6.-Por esta parte es el PROMEDIO
+7.![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892031-035f6780-75d5-11eb-8100-c450df5bd300.png)
