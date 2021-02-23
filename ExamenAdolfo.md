@@ -33,9 +33,9 @@ Aqui se puede ver perfectamente los 10 artistas ordenamos alfabeticamente del 0-
 
 
 7.- Observamos la VARIANZA
-[Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892645-bdef6a00-75d5-11eb-936b-649a70bc83f0.png)
-
 ![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892645-bdef6a00-75d5-11eb-936b-649a70bc83f0.png)
 
-![Captura de pantalla de 2021-02-23 12-39-21](https://user-images.githubusercontent.com/78035004/108892645-bdef6a00-75d5-11eb-936b-649a70bc83f0.png)
+
+8.- En esta parte puede observar que hice que se identifique el valor maximo y valor minimo
+![Captura de pantalla de 2021-02-23 12-52-48](https://user-images.githubusercontent.com/78035004/108893500-c4caac80-75d6-11eb-8ba0-850b1b50b444.png)
 
