@@ -10,3 +10,9 @@ Adolfo Angel Leo Cámara
 ![Captura de pantalla de 2021-02-23 12-21-20](https://user-images.githubusercontent.com/78035004/108889267-ce054a80-75d1-11eb-837f-855352ae1fc8.png)
 
 ![Captura de pantalla de 2021-02-23 11-47-50](https://user-images.githubusercontent.com/78035004/108889810-67ccf780-75d2-11eb-9929-854f10bcc471.png)
+
+3.- Ahora como se puede visualizar, mostramos los primeros 10 artistas ordenados alfabéticamente  
+![Captura de pantalla de 2021-02-23 12-28-32](https://user-images.githubusercontent.com/78035004/108890228-ef1a6b00-75d2-11eb-94f4-a08a1510da75.png)
+
+Aqui se puede ver perfectamente los 10 artistas ordenamos alfabeticamente del 0-9 en total son 10.
+![Captura de pantalla de 2021-02-23 12-28-44](https://user-images.githubusercontent.com/78035004/108890553-57694c80-75d3-11eb-87af-4c2387db01d9.png)
