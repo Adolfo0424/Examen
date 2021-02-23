@@ -1,4 +1,4 @@
-# Examen 
+# Examen de Big Data 
 Big Data
 
 Adolfo Angel Leo Cámara
@@ -16,3 +16,7 @@ Adolfo Angel Leo Cámara
 
 Aqui se puede ver perfectamente los 10 artistas ordenamos alfabeticamente del 0-9 en total son 10.
 ![Captura de pantalla de 2021-02-23 12-28-44](https://user-images.githubusercontent.com/78035004/108890553-57694c80-75d3-11eb-87af-4c2387db01d9.png)
+
+
+4.- Ahora mostramos las posibles datos que puedan relacionar  
+5.![Captura de pantalla de 2021-02-23 12-34-59](https://user-images.githubusercontent.com/78035004/108890945-c777d280-75d3-11eb-8dca-4da901ad08dd.png)
